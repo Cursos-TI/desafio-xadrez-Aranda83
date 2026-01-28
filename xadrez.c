@@ -1,8 +1,7 @@
 #include <stdio.h>
 
     // Desafio de movimentação de peças de xadrez
-    // Torre, Bispo e Rainha
-
+    // Torre, Bispo, Rainha 
 int main(){
     // Definição das peças
 
