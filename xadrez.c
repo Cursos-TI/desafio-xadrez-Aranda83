@@ -6,6 +6,9 @@
 
 int main() {
     // Nível Novato - Movimentação das Peças
+
+    prinf("Desafio xadrez!\n");
+    
     int / Sugestão: Declare variáveis constantes para representar o número de casas que cada peça pode se mover.
 
     // Implementação de Movimentação do Bispo
